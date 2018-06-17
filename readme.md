@@ -1,4 +1,3 @@
 I am adding text from home
-Adding some text to cause another conflict from home
-Adding some text for feature 3 from work
-Adding some more stuff from feature 5 from work
+This will cause a conflict
+Adding some more stuff from   for sure
